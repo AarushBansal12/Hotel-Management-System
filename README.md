@@ -1,37 +1,37 @@
-# 🏨 Hotel Management System
+# Hotel Management System
 
 A comprehensive Java-based Hotel Management System developed using Java Swing for the GUI and MySQL for the backend. This system helps automate core hotel operations such as customer check-in/check-out, room allocation, staff management, and billing.
 
-## 📌 Features
+## Features
 
-- 🔐 **User Authentication**  
+- **User Authentication**  
   Secure login system for hotel staff and managers.
 
-- 🧾 **Customer Management**
+- **Customer Management**
   - Add new customers
   - Track customer details
   - View all registered guests
 
-- 🛏️ **Room Management**
+- **Room Management**
   - View all available/occupied rooms
   - Update room status and pricing
 
-- 🧑‍💼 **Employee Management**
+- **Employee Management**
   - Display all hotel staff
   - Filter by department and role
 
-- 🔍 **Search Functionality**
+- **Search Functionality**
   - Find rooms by bed type or availability
   - Filter customers and employees
 
-- 🧾 **Billing & Checkout**
+- **Billing & Checkout**
   - Calculate customer bills based on duration and room type
   - Easy checkout with receipt generation
 
-- 💼 **Department Overview**
+- **Department Overview**
   - View and manage various departments in the hotel (e.g., Housekeeping, Kitchen)
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Language:** Java  
 - **GUI:** Java Swing  
@@ -39,7 +39,7 @@ A comprehensive Java-based Hotel Management System developed using Java Swing fo
 - **IDE Used:** IntelliJ IDEA / Eclipse  
 - **Build Tool:** Not required (pure Java project)
 
-## 📁 Project Structure
+## Project Structure
 
 Hotel-Management-System/
 │
